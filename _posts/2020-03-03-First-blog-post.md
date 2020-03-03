@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First blog post"
+date: 2020-03-03
 ---
 
 # Welcome
